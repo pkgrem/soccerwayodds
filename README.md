@@ -9,7 +9,9 @@ https://us.soccerway.com/a/block_competition_tables?block_id=page_competition_1_
 The two variables based off of soccerway are:
 
 season_id%22%3A16180
+
 competition_id%22%3A8%2C%22
+
 competition_wide_table%22%7D
 
 So what has to be done is a find replace for the season_id and the competition_id
